@@ -13,6 +13,6 @@
     - [x] Score increments on every ball into pocket, -5 for every scratch
     - [x] Game resets after pocketing all 9 balls. Used std list for constant and common removals from game.
 
-<img src="imgs/breakshot.png" alt="Example Image" width="600">
-<img src="imgs/guideline-display.png" alt="Example Image" width="600">
+<img src="imgs/breakshot.png" alt="breakshot" width="600">
+<img src="imgs/guideline-display.png" alt="guideline-img" width="600">
 
