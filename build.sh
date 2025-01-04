@@ -1,2 +1,2 @@
 #!/bin/bash
-make clean && make && echo -e "\n" && ./a.out
+make clean && make && echo -e "\n" && ./a.out && make clean
